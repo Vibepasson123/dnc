@@ -1,0 +1,40 @@
+.table-responsive {
+    height: 300px;
+    overflow: auto;
+}
+
+#header-fixed {
+    position: fixed;
+    top: 0px;
+    display: none;
+    background-color: white;
+}
+
+.modal-content {
+    color: #263238;
+    background: #CFD8DC;
+    font-family: "Helvetica Neue", Roboto, Arial, "Droid Sans", sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 1.471;
+}
+
+#ChooseDepartment {
+    float: left;
+    width: 565px;
+}
+
+#reasonAvanceReg {
+    float: left;
+    width: 700px;
+}
+.pointer{
+     cursor: pointer;
+}
+.go{
+    background: #008000;
+}
+.mod{
+    background: #8BC34A;
+}
+

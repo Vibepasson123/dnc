@@ -1,0 +1,14 @@
+
+#container2 {
+    width: 980px;
+    margin: 0 auto;
+}
+
+#sidebar {
+    float: right;
+    
+}
+
+#content {
+    overflow: hidden;
+}
